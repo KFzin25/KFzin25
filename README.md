@@ -1,48 +1,15 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Perfil de Kleiton</title>
+Povos Indígenas em São Jerônimo da Serra
 
-  <!-- Bootstrap CDN -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    .profile-img {
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-      border-radius: 50%;
-      border: 3px solid purple;
-    }
-    .habilidade {
-      color: purple;
-      font-weight: 500;
-      margin: 0 10px;
-    }
-    .social {
-      font-size: 0.9rem;
-      color: #000;
-    }
-  </style>
-</head>
-<body class="bg-light text-center p-5">
+São Jerônimo da Serra é um município localizado no estado do Paraná, Brasil, e possui uma rica diversidade cultural, com destaque para a presença de povos indígenas, principalmente em relação à história e à convivência com outros grupos ao longo dos séculos. Embora não seja um dos maiores centros indígenas do Paraná, a região tem uma significativa história de contato com diferentes povos originários.
+Historicamente, a região onde hoje se encontra o município de São Jerônimo da Serra foi habitada por povos indígenas que pertencem principalmente aos grupos Tupi-Guarani e Kaingang. Esses grupos, que são tradicionais do sul do Brasil, têm características culturais, linguísticas e organizacionais distintas, mas compartilham uma relação profunda com a terra, com a natureza e com a espiritualidade.
+1. Povos Tupi-Guarani
+Os povos Tupi-Guarani eram originários de uma grande área que ia desde a região costeira do Brasil até o interior, abrangendo partes do Paraná. Eram conhecidos por sua habilidade em agricultura, principalmente pelo cultivo de mandioca e milho, e também por sua organização social, que era baseada em uma estrutura tribal.
+Em São Jerônimo da Serra, a presença de comunidades Tupi-Guarani foi significativa durante a colonização, embora muitas dessas populações tenham sido deslocadas para áreas mais isoladas ou tenham sido assimiladas pelos colonizadores ao longo do tempo.
+2. Povos Kaingang
+Outro grupo importante que ocupava a região sul do Brasil, incluindo partes do Paraná, são os Kaingang. Os Kaingang possuem uma cultura rica, com forte ênfase em rituais, música e a preservação de suas tradições orais. A língua Kaingang, ainda falada por muitos, é uma das línguas indígenas de maior resistência no Brasil.
+Os Kaingang têm uma relação muito forte com a natureza e com os ciclos da agricultura. Tradicionalmente, eles habitavam regiões de floresta e montanha, realizando práticas de caça, pesca, coleta e agricultura. Em São Jerônimo da Serra, os Kaingang eram, e ainda são, uma presença cultural importante, embora a urbanização e o avanço da agricultura tenham deslocado algumas dessas populações para reservas.
+A luta dos povos indígenas em São Jerônimo da Serra, como em muitas outras regiões do Brasil, envolve a reivindicação pelo direito à terra, à preservação de suas tradições e ao acesso a serviços básicos de saúde e educação. Muitos indígenas enfrentam a pressão do processo de urbanização e da expansão agrícola, que muitas vezes ameaça os territórios tradicionais.
 
-  <div class="container bg-white border p-4 rounded shadow-sm">
-    <img src="foto.jpg" alt="Foto de perfil" class="profile-img mb-3">
-    
-    <h6 class="text-muted">Olá, meu nome é Kleiton</h6>
-    <h1 class="fw-bold">Eu sou Estudante</h1>
+Conclusão
 
-    <p class="mt-3">
-      Sou um aluno do Ensino Médio no Colégio Estadual Do Campo De São João Do Pinhal.<br>
-      Estou no 2º Ano, e quando eu terminar o Ensino Médio, eu pretendo fazer uma faculdade de T.I.
-    </p>
-
-    <h5 class="mt-4">Minhas Habilidades</h5>
-    <div class="d-flex justify-content-center mb-3">
-      <span class="habilidade">Raciocínio lógico</span>
-      <span class="habilidade">Leitura</span>
-      <span class="habilidade">Informática Básica</span>
-    </div>
-
-    <h3 class="fw-bold mt-4
+Embora a presença de povos indígenas em São Jerônimo da Serra não seja tão proeminente em termos de grandes comunidades ou reservas, a história e as contribuições desses povos para a formação cultural da região são inegáveis. A preservação das suas tradições, a valorização de suas línguas e culturas, e a luta por seus direitos são questões fundamentais para garantir que as gerações futuras continuem a reconhecer e respeitar a rica diversidade cultural dos povos indígenas no Paraná e no Brasil.
