@@ -1,3 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta chaset="UTF-8">
+  <title>Povos Indígenas em São Jerônimo da Serra</title>
+  <style>
+   meu-cartaz {
+    display: block;
+    backgound-color: #f2f9f;
+    padding: 20px;
+    max-width: 800px;
+    magin: 40px auto;
+    font_family: Arial, sans-serif;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+  }
+    
+  meu-titulo {
+   display: block;
+   background-color: #4a90e2;
+   color: #ffffff;
+   font-size: 24px;
+   font-wight: bold;
+   padding: 10px;
+   margin-bottom: 20px;
+   text-align: center;
+   border-radius: 5px;
+  }
+  
+  minha-grade {
+   display: flex;
+   gap: 20px;
+   flex-wrap: wrap;
+  }
+  
+  meu-bloco {
+   display: block;
+   background-color: #d1e6f9;
+   pading: 15px;
+   flex: 1;
+   min-width: 300px;
+   border-radius: 8px;
+   color: #000;
+   text-align: justify;
+  }
+  
+
+
+
+
 Povos Indígenas em São Jerônimo da Serra
 
 São Jerônimo da Serra é um município localizado no estado do Paraná, Brasil, e possui uma rica diversidade cultural, com destaque para a presença de povos indígenas, principalmente em relação à história e à convivência com outros grupos ao longo dos séculos. Embora não seja um dos maiores centros indígenas do Paraná, a região tem uma significativa história de contato com diferentes povos originários.
